@@ -1,0 +1,142 @@
+.titre{
+    color:#4ECDC4;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.partie{
+    width: 100%;
+    margin-top: 30px;
+}
+.partie h4{
+    margin-left: 50px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #00a6b2;
+    color:#5a5a5a;
+}
+.partie p {
+    margin-top: 30px;
+    margin-left: 80px;
+    color: black;
+}
+.partie img{
+    margin-top: 30px;
+    margin-left: 200px
+
+}
+
+.partie h5{
+    margin-left: 70px;
+    color:#5a5a5a;
+}
+
+.partie1{
+    width: 100%;
+    margin-top: 30px;
+}
+.partie1 h4{
+    margin-left: 50px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #00a6b2;
+    color:#5a5a5a;
+}
+.partie1 p {
+    margin-top: 30px;
+    margin-left: 80px;
+    color: black;
+}
+.partie1 img{
+    margin-top: 30px;
+    margin-left: 50px
+
+}
+
+.partie1 h5{
+    margin-left: 70px;
+    color:#5a5a5a;
+}
+
+.partie2{
+    width: 100%;
+    margin-top: 30px;
+}
+.partie2 h4{
+    margin-left: 50px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #00a6b2;
+    color:#5a5a5a;
+}
+.partie2 p {
+    margin-top: 30px;
+    margin-left: 80px;
+    color: black;
+}
+.partie2 img{
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 550px;
+    width: 1000px;
+}
+
+.partie2 h5{
+    margin-left: 70px;
+    color:#5a5a5a;
+}
+
+.partie2 video{
+    margin-top: 10px;
+    margin-left: 30px;
+    height: 550px;
+    width: 1020px;
+}
+
+.partie3{
+    width: 100%;
+    margin-top: 30px;
+}
+.partie3 h4{
+    margin-left: 50px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #00a6b2;
+    color:#5a5a5a;
+}
+.partie3 p {
+    margin-top: auto;
+    margin-left: 200px;
+    color: black;
+    font-weight: 100;
+}
+.partie3 img{
+    margin-top: auto;
+    margin-left: 50px;
+    width: 150px;
+    height: 140px;
+
+}
+
+.partie3 h5{
+    margin-left: 70px;
+    color:#5a5a5a;
+}
+
+.deux {
+    color: black;
+    list-style: square inside;
+    margin-left: 30px;
+  }
+
+.partie4 h4{
+    margin-top: 20px;
+    margin-left: 50px;
+    size: 20;
+    text-decoration-style: solid;
+    color:black;
+}
+.partie4 img{
+    width: 900;
+    height: 900;
+    margin-left: 370px;
+}
